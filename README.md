@@ -1,8 +1,6 @@
 # Quiz-Project-Test-Cases
 Test cases of open-source programming influencers Quiz
 
-# Test Cases For Quiz Project
-
 ## Scenario: Access to the Login Page
 
 **Summary:** This scenario checks if users can easily go to the login page on a quiz website and access it without any issues.
