@@ -1,4 +1,4 @@
-![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/f570ef7f-cb2a-4244-a414-d2650662d6f2)# Quiz-Project-Test-Cases
+# Quiz-Project-Test-Cases
 Test cases of open-source programming influencers Quiz
 
 ## Scenario: Access to the Login Page
