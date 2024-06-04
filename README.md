@@ -1,4 +1,4 @@
-# Quiz-Project-Test-Cases
+![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/f570ef7f-cb2a-4244-a414-d2650662d6f2)# Quiz-Project-Test-Cases
 Test cases of open-source programming influencers Quiz
 
 ## Scenario: Access to the Login Page
@@ -385,6 +385,10 @@ Test cases of open-source programming influencers Quiz
 **Conditions of Success:**
 - A password reset email is sent successfully to the user's email, and a pop-up message displays: 'Password reset email sent.'
 - The user received the reset password link in his email.
+  
+![Screenshot from 2024-05-22 16-53-40](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/83d95368-5dc1-4ea5-a4a6-e3ba0f540283)
+
+![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/8350cfdf-a359-404b-b93f-1fe31c292aaf)
 
 ---
 
@@ -408,6 +412,9 @@ Test cases of open-source programming influencers Quiz
 - The user is displayed the message “User not found.”
 - The user is unable to reset the password.
 
+![Screenshot from 2024-05-22 13-16-27](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/a1431080-6698-490e-8574-463d9cd68899)
+
+
 ---
 
 ## Scenario: Navigate Password Reset Page
@@ -425,6 +432,8 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user clicks on the link.
 
 **Conditions of Success:** The user is successfully redirected to the reset password page.
+
+![Screenshot from 2024-05-22 12-31-00](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/17e82475-6e5f-4f3a-b3d2-6c3205ad7e48)
 
 ---
 
@@ -447,6 +456,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The user password is successfully reset, and a pop-up message displays: "Password is reset successfully.”
 
+![Screenshot from 2024-05-22 17-26-29](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/58680719-ff9e-4076-98fc-deb4c321a6e2)
+
 ---
 
 ## Scenario: Display Password on Reset Password Page
@@ -467,6 +478,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The user is able to see the password displayed in the password box.
 
+![Screenshot from 2024-05-22 12-26-46](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/968fb620-c1bc-41db-9eb4-51992a4bfaa3)
+
 ---
 
 ## Scenario: Unsuccessful Reset Password Due to Password Length
@@ -486,6 +499,7 @@ Test cases of open-source programming influencers Quiz
 2. The user inputs the confirm password, which is the same as the new password.
 
 **Conditions of Success:** An error pop-up message is displayed: "Password must be between 8 and 15 characters long.”
+
 
 ---
 
