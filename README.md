@@ -500,6 +500,7 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** An error pop-up message is displayed: "Password must be between 8 and 15 characters long.”
 
+![Screenshot from 2024-05-24 10-31-19](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/85713396-878b-4275-ac1e-07a112e2226c)
 
 ---
 
@@ -521,6 +522,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** An error pop-up message is displayed: "Password must contain at least one uppercase letter, one lowercase letter, one digit, and one special character.”
 
+![Screenshot from 2024-05-24 11-02-37](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/dadb3aae-22d9-4353-bb8a-3c9d25b8e491)
+
 ---
 
 ## Scenario: Unsuccessful Reset Password Due to Missing Lower Case Letter in Password
@@ -540,6 +543,8 @@ Test cases of open-source programming influencers Quiz
 2. The user inputs the confirm password, which is the same as the new password.
 
 **Conditions of Success:** An error pop-up message is displayed: "Password must contain at least one uppercase letter, one lowercase letter, one digit, and one special character.”
+
+![Screenshot from 2024-05-24 12-27-57](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/997ae98f-bbfc-4eaa-9126-4822e03b55b2)
 
 ---
 
@@ -561,6 +566,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** An error pop-up message is displayed: "Password must contain at least one uppercase letter, one lowercase letter, one digit, and one special character.”
 
+![Screenshot from 2024-05-24 12-31-10](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/2c14379c-9b90-48a5-884d-d81414141d8a)
+
 ---
 
 ## Scenario: Unsuccessful Reset Password Due to Missing Digit in Password
@@ -580,6 +587,8 @@ Test cases of open-source programming influencers Quiz
 2. The user inputs the confirm password, which is the same as the new password.
 
 **Conditions of Success:** An error pop-up message is displayed: "Password must contain at least one uppercase letter, one lowercase letter, one digit, and one special character.”
+
+![Screenshot from 2024-05-24 13-09-17](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/455c4087-a346-425b-be3a-7c34c0c9ba5a)
 
 ---
 
@@ -602,6 +611,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** An error message is displayed: "Passwords do not match."
 
+![Screenshot from 2024-05-22 12-27-44](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/f6590825-d441-48f6-b13b-07c859d41798)
+
 ---
 
 ## Scenario: Color Hover Effect of Sidebar Influencer
@@ -619,6 +630,11 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user moves the cursor over a particular name of an open source influencer in the left sidebar on the quiz homepage.
 
 **Conditions of Success:** The color of the particular open source influencer's name changes to pink.
+
+![Screenshot from 2024-05-20 17-49-00](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/140cf50d-084c-47f5-8796-47cab63cbd85)
+
+![Screenshot from 2024-05-20 17-45-25](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/7d4fd650-f7d7-4cec-b197-2a5ac4247599)
+
 
 ---
 
@@ -638,6 +654,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The color of the particular open source influencer name reverts to its original state.
 
+![Screenshot from 2024-05-20 17-49-00](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/d8ffa1e6-cfd2-4bdb-a243-a914b2074c93)
+
 ---
 
 ## Scenario: Reading Information about Open Source Influencers
@@ -655,6 +673,8 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user selects the name of the open source influencer from the left sidebar on the quiz homepage.
 
 **Conditions of Success:** The user is redirected to the info page of a specific open source influencer.
+
+![Screenshot from 2024-05-10 12-55-36](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/942c1de5-417e-4c70-8324-8e7121b98164)
 
 ---
 
@@ -674,6 +694,11 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The user is redirected to the Wikipedia page associated with the open source influencer.
 
+![Screenshot from 2024-05-10 13-15-18](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/bd09edf3-81a4-41d5-8434-c9542bf56ddf)
+
+![Screenshot from 2024-05-10 13-16-11](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/edeb06d1-d7ae-48d1-83cb-1ea570b42785)
+
+
 ---
 
 ## Scenario: User Redirects from Information Page to Home Page
@@ -692,6 +717,10 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The user is redirected to the quiz page of the website.
 
+![Screenshot from 2024-05-10 13-15-18](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/32da238a-c89c-4a50-98e9-aa3b86534669)
+
+![Screenshot from 2024-05-08 12-07-10](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/4b6f554f-a4ce-4dfa-9667-8899673addd7)
+
 ---
 
 ## Scenario: Quiz Boxes Zoom In Hover Effect
@@ -709,6 +738,9 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user moves the cursor over a particular quiz box.
 
 **Conditions of Success:** The box gradually zooms in.
+![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/db338cd4-4a25-44d9-bd59-93dd5f1870ee)
+
+![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/6da042d0-6239-4501-aa19-2cca1ffe3946)
 
 ---
 
@@ -728,6 +760,10 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The box returns to its regular size.
 
+![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/29c9e32a-c1e3-4510-bca6-e2125c76e274)
+
+![image](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/9fbcc020-e9fd-40dd-81e0-1463c636a2ff)
+
 ---
 
 ## Scenario: Start Quiz
@@ -745,6 +781,8 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user clicks the "Start Quiz" button.
 
 **Conditions of Success:** The user is directed to the "MCQ" page.
+
+![Screenshot from 2024-05-13 11-44-42](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/781f1cc1-eb25-4d33-ac29-e8a395e9026b)
 
 ---
 
@@ -764,6 +802,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The color of the multiple-choice question (MCQ) option changes to yellow.
 
+![Screenshot from 2024-05-13 11-45-04](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/e8f9f977-51df-4d1a-9b7d-3681e40c7d23)
+
 ---
 
 ## Scenario: The Hover Effect Color of Quiz MCQ Options Reverts to Its Original State
@@ -782,6 +822,8 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The color of the MCQ option reverts to its original state.
 
+![Screenshot from 2024-05-13 11-44-42](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/9dd5357e-2db3-4cf8-99b0-939589b64ba3)
+
 ---
 
 ## Scenario: Attempt Multiple Choice Questions
@@ -799,6 +841,8 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** User selects options for multiple-choice questions.
 
 **Conditions of Success:** The color of the multiple-choice question (MCQ) option changes to green.
+
+![Screenshot from 2024-05-13 11-35-56](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/76d7d1d9-b6bc-4735-8848-66b55c07a801)
 
 ---
 
@@ -819,6 +863,8 @@ Test cases of open-source programming influencers Quiz
 2. The user clicks on the submit button.
 
 **Conditions of Success:** A pop-up appears with the message "Please answer all questions before submitting.”
+
+![Screenshot from 2024-05-13 11-36-23](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/52b5022b-4bbc-4469-8837-7fc72b94916c)
 
 ---
 
@@ -845,6 +891,8 @@ Test cases of open-source programming influencers Quiz
 - The user can see the correct answer displayed below the chosen answer in green color.
 - The user can also view explanations related to the question in blue color.
 
+![Screenshot from 2024-05-20 17-53-19](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/2b9248e5-52a6-45a1-be4f-f7645c051e79)
+
 ---
 
 ## Scenario: User Directs from Result Page to Home Page
@@ -862,6 +910,8 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user needs to click on the "Home" button located at the bottom of the page.
 
 **Conditions of Success:** The user is directed to the quiz home page.
+
+![Screenshot from 2024-05-21 14-48-38](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/cabb5f79-ac03-492c-8160-6b7caa4021f3)
 
 ---
 
@@ -881,6 +931,10 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The logout button zooms in and turns yellow.
 
+ ![Screenshot from 2024-05-22 03-21-16](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/e84de417-aba0-4089-afc0-bc0956d6c743)
+
+![Screenshot from 2024-05-22 03-23-26](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/86403a4e-ae0a-42fc-ae60-65f5f2999f9f)
+
 ---
 
 ## Scenario: Logout Option Returns to Regular Size and Color
@@ -899,6 +953,10 @@ Test cases of open-source programming influencers Quiz
 
 **Conditions of Success:** The 'Logout' button reverts to its regular size and color.
 
+![Screenshot from 2024-05-22 03-23-26](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/f5cbf0d7-0c38-47db-9dfb-7636710af1b5)
+
+![Screenshot from 2024-05-22 03-21-16](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/d5a8beb7-a017-47bf-9c90-7ca879d3de5c)
+
 ---
 
 ## Scenario: User Logs Out from the Quiz
@@ -916,3 +974,8 @@ Test cases of open-source programming influencers Quiz
 **Chronological Tasks:** The user clicks on the logout button positioned at the top right of the homepage.
 
 **Conditions of Success:** The user successfully logs out and is redirected to the login page.
+
+![Screenshot from 2024-05-22 03-28-05](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/b2abde47-1cef-4b20-9534-f1978d542379)
+
+![Screenshot from 2024-05-22 13-29-35](https://github.com/ErSachinBhati/Quiz-Project-Test-Cases/assets/158732178/53eeba55-16b7-4f61-b6f9-7246a0428fc2)
+
